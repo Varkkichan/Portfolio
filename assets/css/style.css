@@ -1427,9 +1427,9 @@ textarea.input{
 
     .home_img {
         display: block;
-        width: 250px;
+        width: 350px;
         margin: 0 auto;
-        padding: 0.5rem;
+        /* padding: 0.5rem; */
 
     }
 
